@@ -1,0 +1,6 @@
+Author      : Douglas
+Initialized : 2015-03-07
+
+Main feature :
+1, Filter silence when recording into files. 
+2, Voice recognition of the audio files.
